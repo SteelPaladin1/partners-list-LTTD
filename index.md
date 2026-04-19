@@ -21,5 +21,11 @@
 | `1492047397562613760` | `divine066127` | `@disnine4` | [YouTube](https://www.youtube.com/@Demon_724) |
 | `1311141814279081994` | `niahuser` | `@niahuser` | [YouTube](https://youtube.com/@niahuser) |
 | `972884791080931408` | `itzbringz` | `@AyonSOLO` | [YouTube](https://www.youtube.com/@itzmrbringz) |
+| `1099817171841982534` | `maxime3121` | `@maxime023902` | [YouTube](https://www.youtube.com/@rimuru-yt_12) |
+| `1185011516978761793` | `shanneyDs` | `@amiin7891` | [YouTube](https://www.youtube.com/@shanneyd) |
+| `1214759610125254677 ` | `mister_gamezman31` | `@Mister_gamezman31` | [YouTube](https://www.youtube.com/@mister_gamezman31) |
+| `1461857845531250719 ` | `warfaremania` | `@Jdone46` | [YouTube](https://www.youtube.com/@WarfareMania) |
+| `1093198629143064577 ` | `abrisamaja` | `@Beryl20112511` | [YouTube](https://www.youtube.com/@bimzzblox) |
+| `1464254489761419400 ` | `picahu0039` | `@fbfdgqk` | [YouTube](https://www.youtube.com/@holasoyconejo) |
 
 ---
